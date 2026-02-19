@@ -97,5 +97,5 @@ This project provides structured insights into job market trends and helps:
 - Deploy project using Streamlit Cloud  
 
 ---
-## authors
+## Author
 - pabankumarbodana1820-rgb
